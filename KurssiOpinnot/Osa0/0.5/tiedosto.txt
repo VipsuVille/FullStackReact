@@ -1,0 +1,9 @@
+selain -> palvelin : HTTP GET "http://html tiedosto
+palvelin -> selain : Html koodi
+selain -> palvelin : HTTP GET "CSS tiedosto"
+palvelin -> selain : lähetetään css koodi.
+selain -> palvelin : HTTP GET "js tiedosto"
+palvelin -> selain : lähetettään js tiedosto.
+Selain -> palvelin : JS koodi pyytää JSON dataa
+palvelin -> selain : Lähetetään json data.
+Selain muodostaa sivun kokonaisuuden.

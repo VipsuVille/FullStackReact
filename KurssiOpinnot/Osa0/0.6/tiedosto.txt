@@ -1,0 +1,3 @@
+selain -> palvelin : lähetetään formilla teksti
+      palvelin     : käsitellään teksti javascriptillä ajaxilla eikä post methodia käyttäen
+palvelin -> selain : lähetetään tulostus takaisin selaimelle. Ei päivitetä koko sivua vaan vain se pieni osa jota erikseen käsitellään javascriptillä.

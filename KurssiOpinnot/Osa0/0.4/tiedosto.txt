@@ -1,0 +1,2 @@
+selain -> palvelin : POST mitä kirjoitettu
+palvelin -> selain : Form päivittää sivun koska pyyntö on POST jolloin uusi HTML latautuu selaimelle kirjoitus mukaanlukien.

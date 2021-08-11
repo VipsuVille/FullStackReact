@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "date": "2312312312312",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "browser can execute only js",
+      "date": "09012312312",
+      "important": true
+    },
+    {
+      "id": 3,
+      "content": "get poist are the most impoteant is easy",
+      "date": "98903284908329",
+      "important": true
+    }
+  ]
+}
